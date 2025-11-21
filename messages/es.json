@@ -1,0 +1,9 @@
+{
+    "HomePage": {
+        "title": "Hello world!"
+    },
+    "NotFound": {
+        "p": "Lo sentimos, no pudimos encontrar esta página.",
+        "button": "Volver a la página de inicio"
+    }
+}
